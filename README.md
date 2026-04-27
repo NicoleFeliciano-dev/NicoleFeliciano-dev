@@ -21,9 +21,9 @@
 
 <hr>
 
-Atualmente, tenho 18 anos, moro no estado da Paraíba e sou atualmente graduanda no curso de Ciência da Computação na Universidade Federal de Campina Grande e possuo diploma técnico em Informática pelo Instituto Federal da Paraíba - Campus Santa Luzia. Tenho um enorme interesse na área de desenvolvimento de software e na criação de jogos digitais. 
+Atualmente, tenho 18 anos, moro no estado da Paraíba, sou graduanda no curso de Ciência da Computação na Universidade Federal de Campina Grande e possuo diploma técnico em Informática pelo Instituto Federal da Paraíba - Campus Santa Luzia. Tenho um enorme interesse na área de desenvolvimento de softwares e jogos digitais. 
 
-Possuo experiência no desenvolvimento de aplicações para plataformas mobile e web, além da participação em projetos de pesquisa e extensão voltados à resolução de problemas vigentes na sociedade atual. Caso queira acompanhar mais dos meus projetos, acompanhe o meu instagram [@nicolefeliciano.dev](https://www.instagram.com/nicolefeliciano.dev/).
+Possuo experiência no desenvolvimento de aplicações para plataformas mobile e web, além da participação em projetos de pesquisa e extensão voltados à resolução de problemas vigentes. Caso queira acompanhar mais dos meus projetos, siga meu perfil do Instagram [@nicolefeliciano.dev](https://www.instagram.com/nicolefeliciano.dev/).
 
 <hr>
 

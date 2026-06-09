@@ -51,14 +51,14 @@ Possuo experiência no desenvolvimento de aplicações para plataformas mobile e
   ### 📊| Github Status ###
   <picture>
     <img
-      height="150"
+      height="120"
       src="https://github-readme-stats.vercel.app/api?username=NicoleFeliciano-dev&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"
       alt="Nicole Feliciano's GitHub Stats"
     />
   </picture>
   <picture>
     <img
-      height="150"
+      height="120"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoleFeliciano-dev&theme=tokyonight&layout=compact&hide_border=true"
       alt="Nicole Feliciano's Top Languages"
     />

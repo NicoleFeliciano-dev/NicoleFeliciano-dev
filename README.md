@@ -14,9 +14,6 @@
   <a href="https://www.instagram.com/nicolefeliciano.dev/">
     <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23fc0373?style=for-the-badge&logo=instagram&logoColor=%23c9003c&color=white">
   </a>
-  <a href="https://www.linkedin.com/in/nicole-feliciano-471bb0402">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-white?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjMDA3NmIyIiBkPSJNMTE2IDNIMTJhOC45MSA4LjkxIDAgMDAtOSA4Ljh2MTA0LjQyYTguOTEgOC45MSAwIDAwOSA4Ljc4aDEwNGE4LjkzIDguOTMgMCAwMDktOC44MVYxMS43N0E4LjkzIDguOTMgMCAwMDExNiAzeiIvPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0yMS4wNiA0OC43M2gxOC4xMVYxMDdIMjEuMDZ6bTkuMDYtMjlhMTAuNSAxMC41IDAgMTEtMTAuNSAxMC40OSAxMC41IDEwLjUgMCAwMTEwLjUtMTAuNDlNNTAuNTMgNDguNzNoMTcuMzZ2OGguMjRjMi40Mi00LjU4IDguMzItOS40MSAxNy4xMy05LjQxQzEwMy42IDQ3LjI4IDEwNyA1OS4zNSAxMDcgNzV2MzJIODguODlWNzguNjVjMC02Ljc1LS4xMi0xNS40NC05LjQxLTE1LjQ0cy0xMC44NyA3LjM2LTEwLjg3IDE1VjEwN0g1MC41M3oiLz48L3N2Zz4=&logoColor=white">
-  </a>
 </div>
 
 <hr>
@@ -46,7 +43,7 @@ Possuo experiência no desenvolvimento de aplicações para plataformas mobile e
 
 <hr>
 
-<div align="center">
+<!--<div align="center">
 
   ### 📊| Github Status ###
   <picture>
@@ -63,7 +60,7 @@ Possuo experiência no desenvolvimento de aplicações para plataformas mobile e
       alt="Nicole Feliciano's Top Languages"
     />
   </picture>
-</div>
+</div>-->
 
 <!--
 Credits

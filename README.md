@@ -5,14 +5,12 @@
   <li>Técnica em Informática pelo Instituto Federal da Paraíba</li>
 </ul>
 
-<hr>
-
 <div align="center">
   <a href="mailto:nicolefeliciano.dev@gmail.com">
-    <img alt="E-mail" src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=red&color=white">
+    <img alt="E-mail" src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white&color=eb0066">
   </a>
   <a href="https://www.instagram.com/nicolefeliciano.dev/">
-    <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23fc0373?style=for-the-badge&logo=instagram&logoColor=%23c9003c&color=white">
+    <img alt="Instagram" src="https://img.shields.io/badge/instagram-white?style=for-the-badge&logo=instagram&logoColor=%23fc0373&color=white">
   </a>
 </div>
 
@@ -25,45 +23,15 @@ Possuo experiência no desenvolvimento de aplicações para plataformas mobile e
 <hr>
 
 <div align="center">
-
+  
   ### 🤖| Linguagens e Tecnologias ###
-  <div>
-    <img width = "25px" style = "padding:5px" title="HTML 5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-    <img width = "25px" style = "padding:5px" title="CSS 3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-    <img width = "25px" style = "padding:5px" title="JAVASCRIPT" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-    <img width = "25px" style = "padding:5px" title="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-    <img width = "25px"style = "padding:5px" title="JAVA" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-    <img width = "25px" style = "padding:5px" title="PYTHON" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-    <img width ="25px" style = "padding:5px" title="LUA" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />
-    <img width ="25px" style = "padding:5px" title="GODOT ENGINE" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" />
-    <img width ="25px" style = "padding:5px" title="MYSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-    <img width ="25px" style = "padding:5px" title="GIT" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  </div>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,java,lua,godot,mysql)](https://skillicons.dev)
+
 </div>
 
-<hr>
-
-<!--<div align="center">
-
-  ### 📊| Github Status ###
-  <picture>
-    <img
-      height="120"
-      src="https://github-readme-stats.vercel.app/api?username=NicoleFeliciano-dev&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"
-      alt="Nicole Feliciano's GitHub Stats"
-    />
-  </picture>
-  <picture>
-    <img
-      height="120"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoleFeliciano-dev&theme=tokyonight&layout=compact&hide_border=true"
-      alt="Nicole Feliciano's Top Languages"
-    />
-  </picture>
-</div>-->
 
 <!--
 Credits
 Badges Shields: https://github.com/badges/shields
-Github Status: https://github.com/ahmadjoya/github-readme-stats
+Skill Icons: https://github.com/tandpfun/skill-icons
 -->
